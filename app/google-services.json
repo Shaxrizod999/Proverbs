@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "762823393954",
+    "firebase_url": "https://maqollar-659ce-default-rtdb.firebaseio.com",
+    "project_id": "maqollar-659ce",
+    "storage_bucket": "maqollar-659ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762823393954:android:262143c346fffc4ee50dfb",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762823393954-hf69mmprbd71k4nc3jti52h8hqlhroh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnBbw9wQUcrSUiYZThEcyr5N5j85O6CNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762823393954-hf69mmprbd71k4nc3jti52h8hqlhroh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

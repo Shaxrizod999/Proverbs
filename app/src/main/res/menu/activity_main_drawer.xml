@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homeFragment"
+            android:icon="@drawable/ic_baseline_subject_24"
+            android:title="Barcha maqollar" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/saved"
+            android:title="Saqlangan maqollar" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="Sozlamalar" />
+
+        <item
+            android:id="@+id/dastur_haqida"
+            android:icon="@drawable/ic_baseline_report_24"
+            android:title="Dastur haqida" />
+        <item
+            android:id="@+id/ulashish"
+            android:icon="@drawable/ic_baseline_share_24"
+            android:title="Ulashish" />
+
+    </group>
+</menu>
